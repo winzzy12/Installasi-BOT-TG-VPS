@@ -1,3 +1,4 @@
+![Alt Text](./assets/image.png)
 ◾ Fungsi BOT 
 - ✅ Cek Usage CPU,RAM,DISK
 - ✅ Cek Uptime
