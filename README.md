@@ -1,14 +1,20 @@
 # ☕ Cara Installasi Script Telegram VPS BOT
 
+* Info Script Repository nya bisa hubungi melalui:
+   * 🐦 Twitter/X: [@hexByte](https://x.com/fruitchest8474)
+   * 📫 Email: [wirasaputra3005@gmail.com](mailto:wirasaputra3005@gmail.com)
+   * 📱 WhatsApp: [+62 822 82586624](https://wa.me/6282282586624)
+   * Script hanya Rp 25.000 -,
+
+
 * Jika sudah mendapatkan repository nya boleh siapkan 🗒
   * Siapkan BOT telegram kamu terlebih dahulu bisa lewat (@BotFather)
   * Copy Token BOT yang sudah kamu buat
   * Copy ID telegram kamu untuk izinkan akses, bisa lewat (@userinfobot)
   * Lanjut ke installasi yang sudah dibuat sesimple mungkin 👍
 
- * Jika sudah mendapatkan repository nya bisa lanjut ke step berikutnya
 
- * Masuk ke Directory
+ * Masuk ke Folder Directory
 ```bash
 cd TELEGRAM_VPS_BOT
 ```
