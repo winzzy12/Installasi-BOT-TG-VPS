@@ -1,5 +1,14 @@
-# ☕ Cara Installasi Script Telegram VPS BOT
+◾ Fungsi BOT 
+- ✅ Cek Usage CPU,RAM,DISK
+- ✅ Cek Uptime
+- ✅ Cek IP Public
+- ✅ Restart VPS
+- ✅ Cek Screen yang aktif
+- ✅ Kirim perintah ke screen
+- ✅ Tambah screen baru
+- ✅ Tutup screen aktif
 
+◾ Cara Installasi Script Telegram VPS BOT
 * Info Script Repository nya bisa hubungi melalui:
    * 🐦 Twitter/X: [@hexByte](https://x.com/fruitchest8474)
    * 📫 Email: [wirasaputra3005@gmail.com](mailto:wirasaputra3005@gmail.com)
@@ -7,8 +16,8 @@
    * Script hanya Rp 25.000 -,
 
 
-* Jika sudah mendapatkan repository nya boleh siapkan 🗒
-  * Siapkan BOT telegram kamu terlebih dahulu bisa lewat (@BotFather)
+◾ Jika sudah mendapatkan repository nya boleh siapkan 🗒
+  * Buat BOT telegram kamu terlebih dahulu bisa lewat (@BotFather)
   * Copy Token BOT yang sudah kamu buat
   * Copy ID telegram kamu untuk izinkan akses, bisa lewat (@userinfobot)
   * Lanjut ke installasi yang sudah dibuat sesimple mungkin 👍
