@@ -13,8 +13,6 @@
 * Info Script Repository nya bisa hubungi melalui:
    * 🐦 Twitter/X: [@hexByte](https://x.com/fruitchest8474)
    * 📱 WhatsApp: [+62 822 82586624](https://wa.me/6282282586624)
-   * Script hanya Rp 25.000 -,
-
 
 ◾ Jika sudah mendapatkan repository nya boleh siapkan 🗒
   * Buat BOT telegram kamu terlebih dahulu bisa lewat (@BotFather)
