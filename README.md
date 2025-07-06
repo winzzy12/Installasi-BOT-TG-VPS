@@ -17,6 +17,8 @@ Cukup lewat tombol — tanpa perlu SSH!
 - ✅ Kirim perintah langsung ke dalam **screen**
 - ✅ Tambah **screen** baru
 - ✅ Tutup **screen** aktif
+- ✅ Cek daftart **docker** yang aktif
+- ✅ Tutup **docker** aktif
 
 ---
 
