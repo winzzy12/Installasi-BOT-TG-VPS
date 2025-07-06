@@ -13,10 +13,16 @@
 * Untuk info script bot nya bisa hubungi melalui:
    * 🐦 Twitter/X: [@hexByte](https://x.com/fruitchest8474)
    * 📱 Telegram : [HexByte](https://t.me/topengdigital)
-   * Atau bisa langsung kirim 1$ (base-eth,bnb,arb-eth,base-usdc ke wallet dibawah ini, dan kirimkan bukti Txhash ke Telegram di atas 
+   * Atau bisa langsung kirim 1$ ke wallet dibawah ini, dan kirimkan bukti Txhash ke Kontak Telegram di atas 
 ```
 0xcfD39426BaCfd18d0245597F8D2dbD9e389473D2
 ```
+Pembayaran bisa berupa
+* Base-Eth
+* Base-Usdc
+* Arb-Eth
+* BNB
+* Polygon
 
 ◾ Jika sudah mendapatkan repository nya boleh siapkan 🗒
   * Buat BOT telegram kamu terlebih dahulu bisa lewat (@BotFather)
