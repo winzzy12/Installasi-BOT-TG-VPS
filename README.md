@@ -70,5 +70,5 @@ sudo systemctl stop telegrambot
 sudo systemctl restart telegrambot
 ```
 Jika sudah running bot otomatis berjalan ketika server restart
-# Semoga BOT ini bisa membantu memudahkan pekerjaan kamu ☺️
-Winzzy
+# Semoga BOT ini bisa bermanfaat ☺️
+HexByte
