@@ -13,6 +13,7 @@
 * Info Repository nya bisa hubungi melalui:
    * 🐦 Twitter/X: [@hexByte](https://x.com/fruitchest8474)
    * 📱 WhatsApp: [+62 822 82586624](https://wa.me/6282282586624)
+   *  Telegram : [HexByte](https://t.me/topengdigital)
 
 ◾ Jika sudah mendapatkan repository nya boleh siapkan 🗒
   * Buat BOT telegram kamu terlebih dahulu bisa lewat (@BotFather)
