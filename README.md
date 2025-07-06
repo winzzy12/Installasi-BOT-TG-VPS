@@ -10,7 +10,7 @@
 - ✅ Tutup screen aktif
 
 ◾ Cara Installasi Script Telegram VPS BOT
-* Info Repository nya bisa hubungi melalui:
+* Untuk info script bot nya bisa hubungi melalui:
    * 🐦 Twitter/X: [@hexByte](https://x.com/fruitchest8474)
    * 📱 Telegram : [HexByte](https://t.me/topengdigital)
    * Atau bisa langsung kirim 1$ eth-base ke wallet dibawah ini dan kirimkan Txhash ke Telegram di atas 
