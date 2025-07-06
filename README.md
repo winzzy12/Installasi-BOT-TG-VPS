@@ -63,7 +63,7 @@ chmod +x install_bot.sh
 
 3. Ikuti petunjuk:
    - Masukkan BOT Token  
-   - Masukkan Telegram User ID kamu  
+   - Masukkan Telegram User ID kamu (sebagai admin untuk izinkan akses **BOT** ke telegram kamu)
 
 ---
 
