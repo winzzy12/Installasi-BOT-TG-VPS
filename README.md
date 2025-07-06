@@ -42,7 +42,8 @@ Kami akan segera kirimkan aksesnya!
 - Base ETH / USDC  
 - Arbitrum ETH  
 - BNB  
-- Polygon  
+- Polygon
+- Jika mau pembayaran lewat Dana/TRF Bank bisa langsung chat ke kontak telegram :)
 
 ---
 
