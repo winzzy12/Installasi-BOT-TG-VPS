@@ -13,6 +13,10 @@
 * Info Repository nya bisa hubungi melalui:
    * 🐦 Twitter/X: [@hexByte](https://x.com/fruitchest8474)
    * 📱 Telegram : [HexByte](https://t.me/topengdigital)
+   * Atau bisa langsung kirim 1$ eth-base ke wallet dibawah ini dan kirimkan Txhash ke Telegram di atas 
+```
+0xcfD39426BaCfd18d0245597F8D2dbD9e389473D2
+```
 
 ◾ Jika sudah mendapatkan repository nya boleh siapkan 🗒
   * Buat BOT telegram kamu terlebih dahulu bisa lewat (@BotFather)
