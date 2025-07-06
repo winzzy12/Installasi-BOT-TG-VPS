@@ -9,20 +9,31 @@
 - ✅ Tambah screen baru
 - ✅ Tutup screen aktif
 
-◾ Cara Installasi Script Telegram VPS BOT
-* Untuk info script bot nya bisa hubungi melalui:
-   * 🐦 Twitter/X: [@hexByte](https://x.com/fruitchest8474)
-   * 📱 Telegram : [HexByte](https://t.me/topengdigital)
-   * Atau bisa langsung kirim 1$ ke wallet dibawah ini, dan kirimkan bukti Txhash ke Kontak Telegram di atas 
+🎯 Tertarik dengan script bot ini?
+Dapatkan aksesnya dengan mudah!
+
+📩 Hubungi kami:
+🐦 Twitter/X: [@hexByte](https://x.com/fruitchest8474)
+📱 Telegram : [HexByte](https://t.me/topengdigital)
+
+💸 Atau cukup kirim $1 ke wallet di bawah ini, lalu kirim bukti Txhash ke Telegram.
+📬 Kami akan segera mengirimkan akses script-nya!
+
+Wallet Address:
 ```
 0xcfD39426BaCfd18d0245597F8D2dbD9e389473D2
 ```
-Pembayaran bisa berupa
-* Base-Eth
-* Base-Usdc
-* Arb-Eth
+
+✅ Menerima pembayaran via:
+* Base-ETH
+* Base-USDC
+* Arbitrum-ETH
 * BNB
 * Polygon
+
+🚀 Simpel, cepat, dan langsung bisa kamu gunakan!
+=======
+
 
 ◾ Jika sudah mendapatkan repository nya boleh siapkan 🗒
   * Buat BOT telegram kamu terlebih dahulu bisa lewat (@BotFather)
