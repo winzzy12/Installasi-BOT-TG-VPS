@@ -7,7 +7,7 @@ Cukup lewat tombol — tanpa perlu SSH!
 
 ---
 
-## 🛠️ Fitur Utama
+## 🛠️ Fitur Yang Tersedia
 
 - ✅ Cek penggunaan **CPU, RAM, dan Disk**
 - ✅ Cek **uptime** server
